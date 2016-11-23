@@ -1,11 +1,16 @@
 {
-  "name": "api-projects",
+  "name": "Timestamp-Microservice",
   "version": "1.0.0",
   "description": "API Projects for FCC",
+  "engines": {
+    "node": "6.5.0"
+  },
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.14.0"
   },
   "repository": {
     "type": "git",
