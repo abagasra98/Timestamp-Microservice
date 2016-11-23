@@ -1,0 +1,16 @@
+{
+  "name": "api-projects",
+  "version": "1.0.0",
+  "description": "API Projects for FCC",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/abagasra98/FCC-backend/"
+  },
+  "author": "abagasra98",
+  "license": "MIT"
+}
